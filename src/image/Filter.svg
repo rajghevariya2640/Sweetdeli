@@ -1,0 +1,23 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="21" height="20" fill="#F5F5F5"/>
+<g id="products" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="4280" transform="translate(-1242 -187)" fill="white"/>
+<g id="Frame 1086">
+<g id="Frame 1097">
+<g id="Buttons">
+<g id="Icons/Icon-fill/48px">
+<rect id="Background" x="-16.6846" y="-14" width="53.0596" height="48" rx="10" fill="black"/>
+<g id="Icons/20px/Filter">
+<path id="Icon" fill-rule="evenodd" clip-rule="evenodd" d="M0.31543 3V5.33333H20.3154V3H0.31543ZM3.64876 11.1667H16.9821V8.83333H3.64876V11.1667ZM12.5377 17H8.09321V14.6667H12.5377V17Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="4280" fill="white" transform="translate(-1242 -187)"/>
+</clipPath>
+</defs>
+</svg>

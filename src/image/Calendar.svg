@@ -1,0 +1,10 @@
+<svg width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icons/16px/Calendar">
+<g id="Icon">
+<rect id="Rectangle" x="1" y="3" width="14" height="14" rx="1" stroke="#A3A3A4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path" d="M11 1V4" stroke="#A3A3A4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_2" d="M5 1V4" stroke="#A3A3A4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_3" d="M1 7H15" stroke="#A3A3A4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
